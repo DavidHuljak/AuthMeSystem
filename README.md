@@ -1,2 +1,2 @@
 # AuthMeSystem
-Simple system for BungeeCord server with AuthMe
+Utilities for [AuthMe](https://github.com/AuthMe) servers with [BungeeCord](https://github.com/SpigotMC/BungeeCord) support.
