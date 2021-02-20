@@ -1,9 +1,11 @@
 name: AuthMeSystem
 version: ${project.version}
-main: me.attex.main.Main
+main: me.huljak.Main
 api-version: 1.13
-authors: [David_Huljak]
-description: AuthMeSystem by David Huljak
+authors: [ DavidHuljak ]
+description: Utility for AuthMe.
 website: https://david.huljak.sk/
+depend: [AuthMe]
 commands:
-  lobbytp:
+  setspawn:
+

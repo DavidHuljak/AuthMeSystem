@@ -1,0 +1,17 @@
+#Prefix that is used in entire plugin
+prefix: '&8[&6AuthMeSystem&8]'
+prefix-clear: '[AuthMeSystem]'
+#When the player joins
+join-title: '&6AuthMeSystem'
+join-subtitle: '&fHello &6%player%. &fPlease login or register.'
+join-message: '&7This server is using &6AuthMeSystem'
+#When the player is logged in
+logged-title: '&6AuthMeSystem'
+logged-subtitle: '&aYou have been successfully logged in!'
+logged-message: '&7Connecting to &6Lobby&7...'
+#Server where the player will be send
+server: 'spigot2'
+#Permission for setspawn command
+permission: 'authsystem.admin'
+#Spawn location
+#Use /setspawn
